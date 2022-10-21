@@ -23,3 +23,7 @@ git log
 Git is not the same as Github
 Github is a company that uses git as the underlying technology  for its product
 Microsoft acquired Github in 2018
+
+Name: Nkemeh Crystal
+Track: Software Engineering
+Cohort: SGA1.4
